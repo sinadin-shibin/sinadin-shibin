@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sinadin Shibin!
+
+**Full Stack Developer**  
+Building scalable, user-focused enterprise applications with a passion for clean code and continuous improvement.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages & Frameworks:**  
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+- **Expertise:**  
+  - Backend optimization & API design  
+  - UI development with Angular  
+  - CI/CD efficiency improvements  
+  - Agile, cross-functional team collaboration
+
+---
+
+### 🚀 About Me
+
+> Full Stack Developer with experience in building scalable, user-focused enterprise applications using .NET and Angular. Skilled in backend optimization, UI development, and CI/CD efficiency improvements within agile, cross-functional product teams. Proven ability to deliver clean, maintainable code and enhance system performance through thoughtful architecture and collaboration.
+
+---
+
+### 🌱 Interests
+
+- Vibe coding
+- Solving puzzles and riddles
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinadin-shibin/)
+
+---
 
 <!--
-**sinad-shibin/sinad-shibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**sinad-shibin/sinad-shibin** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
