@@ -39,5 +39,5 @@ Building scalable, user-focused enterprise applications with a passion for clean
 ---
 
 <!--
-**sinad-shibin/sinad-shibin** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+**sinadin-shibin/sinadin-shibin** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
