@@ -12,8 +12,8 @@ Building scalable, user-focused enterprise applications with a passion for clean
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 - **Expertise:**  
-  - Backend optimization & API design  
-  - UI development with Angular  
+  - UI development with Angular
+  - Backend optimization & API design
   - CI/CD efficiency improvements  
   - Agile, cross-functional team collaboration
 
